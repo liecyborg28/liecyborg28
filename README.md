@@ -1,6 +1,5 @@
-<!-- Hi there 👋 -->
 <h1 align="center">Hi, I'm Nando 👋</h1>
-<h3 align="center">💻 Fullstack Developer | MERN & MEAN Enthusiast 🚀</h3>
+<h3 align="center">💻 Fullstack Developer | MEAN & MERN Enthusiast 🚀</h3>
 
 <p align="center">
   <em>
@@ -13,7 +12,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working on **modern fullstack web projects**
+- 🔭 Currently working on **modern fullstack projects**
 - 🌱 Exploring **Next.js**, **NestJS**, and **Cloud Deployment**
 - 💬 Ask me about **React, Angular, Node.js, Express, or MongoDB**
 - ⚡ Fun fact: I love ASMR mechanical keyboards ⌨️
@@ -23,7 +22,21 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,mongodb,tailwind,bootstrap,git,github,vite,vercel&perline=8" />
+  <img src="https://img.icons8.com/?size=100&id=owWiEaAJmGKK&format=png&color=000000" alt="HTML5" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=4d9YPiN04osD&format=png&color=000000" alt="CSS3" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=YX2eDFImIaWh&format=png&color=000000" alt="JavaScript" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" alt="TypeScript" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=6SWtW8hxZWSo&format=png&color=000000" alt="Angular" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="React" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" alt="NextJS" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" alt="TailwindCSS" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" alt="Supabase" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="NodeJS" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" alt="Express" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=aqb9SdV9P8oC&format=png&color=000000" alt="Prisma" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" alt="MongoDB" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" alt="PostgreSQL" width="48" height="48"/>
 </p>
 
 ---
