@@ -13,9 +13,8 @@
 ### 🧠 About Me
 
 - 🔭 Currently working on **modern fullstack projects**
-- 🌱 Exploring **Next.js**, **NestJS**, and **Cloud Deployment**
-- 💬 Ask me about **React, Angular, Node.js, Express, or MongoDB**
-- ⚡ Fun fact: I love ASMR mechanical keyboards ⌨️
+- 🌱 Exploring **Next.js**, and **Cloud Deployment**
+- 💬 Ask me about **React, Angular, Node.js, Express, PostgresSQL, or MongoDB**
 
 ---
 
